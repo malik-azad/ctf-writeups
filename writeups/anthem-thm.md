@@ -251,7 +251,7 @@ ChangeMeBaby1MoreTime
 That's the Administrator password.
 
 <details>
-<summary>💻 Command-line alternative</summary>
+<summary>Command-line alternative</summary>
 
 Open PowerShell with **`Win+R` → `powershell`** (always present, even on desktops with no shortcuts):
 
@@ -274,7 +274,7 @@ Get-Content C:\backup\restore.txt
 xfreerdp /v:10.49.172.250 -u:administrator -p:'ChangeMeBaby1MoreTime' /cert:ignore
 ```
 
-Different wallpaper, different icons — you're a different user now. **`root.txt` is on the Desktop.** 🎉
+Different wallpaper, different icons — you're a different user now. **`root.txt` is on the Desktop.**
 
 ---
 
@@ -291,7 +291,7 @@ Different wallpaper, different icons — you're a different user now. **`root.tx
 
 ---
 
-## 👤 Author
+## Author
 
 **Azad Ahmad Malik** — Penetration Tester | Application Security | Red Teaming
 
