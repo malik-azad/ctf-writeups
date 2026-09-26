@@ -31,20 +31,23 @@ Anthem looks like a web challenge but it's really a **Windows** challenge. There
 
 **Task 2 — flags**
 
-| # | Location |
-|---|---|
-| 1 | Page source → *We are hiring* → `og:description` meta tag |
-| 2 | Page source → search box `placeholder` (on every page) |
-| 3 | Author page → Jane Doe (visible, not hidden) |
-| 4 | Page source → *A cheers to our IT department* → meta tag |
+| # | Flag | Where it lives |
+|---|---|---|
+| 1 | `THM{L0L_WH0_US3S_M3T4}` | Page source → *We are hiring* → `og:description` meta tag |
+| 2 | `THM{G!T_G00D}` | Page source → search box `placeholder` (on every page) |
+| 3 | `THM{L0L_WH0_D15}` | Author page → Jane Doe (visible, not hidden) |
+| 4 | `THM{AN0TH3R_M3TA}` | Page source → *A cheers to our IT department* → meta tag |
+
+> The questions aren't in flag-number order. If one is rejected, try it in another box — only TryHackMe knows the numbering.
 
 **Task 3**
 
 | Question | Answer |
 |---|---|
 | Credentials | `sg` / `UmbracoIsTheBest!` |
-| Admin password | In `C:\backup\restore.txt` |
-| Flags | `user.txt` on SG's Desktop · `root.txt` on Administrator's Desktop |
+| `user.txt` | `THM{N00T_NO0T}` — on SG's Desktop |
+| Admin password | `ChangeMeBaby1MoreTime` — inside `C:\backup\restore.txt` |
+| `root.txt` | `THM{Y0U_4R3_1337}` — on Administrator's Desktop |
 
 </details>
 
