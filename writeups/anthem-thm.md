@@ -14,7 +14,7 @@ Anthem looks like a web challenge but it's really a **Windows** challenge. There
 ## TL;DR
 
 <details>
-<summary>⚡ Answers</summary>
+<summary>Answers — check off as you go</summary>
 
 **Task 1**
 
